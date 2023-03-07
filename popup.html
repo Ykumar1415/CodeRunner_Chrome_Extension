@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <Title>Code Runner</Title>
+    <style >
+        .container{
+            height: 180px;
+            width:250px; 
+            background: #1f1f1f;
+            overflow: scroll;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            margin-top: 0;
+            padding : 12px; 
+           
+        }
+        button{
+            background: #fff;
+            color: #000;
+            border: none;
+            padding: 5px 10px;
+            margin: 5px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        textarea{
+            background: #fff;
+            color: #000;
+            border: none;
+            padding: 5px 10px;
+            margin: 5px;
+            border-radius: 5px;
+        
+        }
+        .H6, h6{
+            color: #fff;
+        margin: 0; 
+        }
+    </style>
+    </head>
+<body>
+
+
+   
+    <div class="container" >
+        <p class = "H6">Note : copy code in clipboard</p>
+        <!-- <form action=""> -->
+            <div>
+  <H6>Input</H6>
+            <textarea name="input" id="" class = "input" cols="15" rows="6"></textarea>
+        <div> <button class = "codebtn" >code</button>
+        
+            <button class = "runbtn" >Run</button></div>
+           
+        <!-- </form> --></div>
+    </div>
+
+    <script src="popup.js"></script>
+</body>
+</html>
