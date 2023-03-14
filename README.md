@@ -11,7 +11,7 @@ The screenshot belows shows step 1 and 2:
 3. 
 ![image](https://user-images.githubusercontent.com/97088265/224654281-96a04f7d-a57a-4101-a340-c9c82412e821.png)
 
-<h2> Below are the steps to use code runner chrome extension.</h2>
+<h2> Below are the steps to use this code runner chrome extension.</h2>
 
 4. 
 ![Screenshot from 2023-03-13 20:07:53](https://user-images.githubusercontent.com/97088265/224656578-a5e60d8f-7350-4130-8816-327335810b75.png)
